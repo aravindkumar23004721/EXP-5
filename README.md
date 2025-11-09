@@ -49,53 +49,6 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ## RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
-# EXP-5
-## EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
-
-## AIM
-. To find the Zener Break down voltage regulation condition.
-
-## APPARATUS:
-
-S.No	Name of the Apparatus	Range	Quantity
-1	Zener Diode (IN 4735A)		1
-2	Resistors	1KΩ, 10KΩ	1
-3	Regulated Power Supply	(0-30)V DC	1
-4	Bread Board		1
-5	Digital Ammeter	(0-200)mA	1
-6	Digital Voltmeter	(0-20)V DC	1
-7	Connecting Wires	As Required	
-
-## THEORY:
-	
-A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
-
-## PROCEDURE:
-
-1. Connections are made as per the circuit diagram.
-2. The Regulated power supply voltage is increased in steps.
-3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
-4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
-4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-
-## PRECAUTIONS:
-
-1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
-2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
-3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-
-![11](https://github.com/user-attachments/assets/23f05139-1f24-4ff8-9822-055369b20797)
-
-![12](https://github.com/user-attachments/assets/e799e4c1-40de-4391-9f17-dcf7d4b501d3)
-
-![13](https://github.com/user-attachments/assets/d725482d-0015-4ae9-8dec-493464fe878a)
-
-![14](https://github.com/user-attachments/assets/9d099454-3110-4313-9eba-db07918439b3)
-
-
-## OUTPUT:
-
-<img width="1920" height="1200" alt="5(i)" src="https://github.com/user-attachments/assets/2b61b408-9e4f-437f-81bd-3494b0a1c960" />
 
 <img width="1920" height="1200" alt="5(ii)" src="https://github.com/user-attachments/assets/614d8ca7-a0c4-4f97-8d34-152cfe375755" />
 
