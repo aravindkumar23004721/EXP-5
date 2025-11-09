@@ -33,25 +33,20 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
-![img](https://github.com/Girithickrohan/EXP-5/blob/main/1.jpeg)
+![11](https://github.com/user-attachments/assets/98ee4bf1-db0d-47ba-a1a9-bb2eb715f0b6)
 
-![img](https://github.com/Girithickrohan/EXP-5/blob/main/2.jpeg)
+![12](https://github.com/user-attachments/assets/e73adbc9-35dd-4fe8-9ea1-253b97b6bec6)
 
-![img](https://github.com/Girithickrohan/EXP-5/blob/main/3.jpeg)
+![13](https://github.com/user-attachments/assets/27ab9626-e820-48a9-be45-ffd0e6f9a39e)
 
-![img](https://github.com/Girithickrohan/EXP-5/blob/main/4.jpeg)
+![14](https://github.com/user-attachments/assets/7cfcede2-c73b-4289-aeac-47793ff9ea15)
+
 
 ## OUTPUT:
 
-<img width="1920" height="1200" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/72727694-7c40-432a-9bd6-72d811cbd41a" />
+<img width="1920" height="1200" alt="5(i)" src="https://github.com/user-attachments/assets/9af1003d-ab55-4d64-b48b-d1cab42ce1dc" />
 
-<img width="1920" height="1200" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/5894b285-fde8-475c-8067-2a4dc91ee659" />
-
-## RESULT:
-The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
-
-<img width="1920" height="1200" alt="5(ii)" src="https://github.com/user-attachments/assets/614d8ca7-a0c4-4f97-8d34-152cfe375755" />
-
+<img width="1920" height="1200" alt="5(ii)" src="https://github.com/user-attachments/assets/01387a0d-b1ce-47f7-81a1-8c88a1306306" />
 
 ## RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
