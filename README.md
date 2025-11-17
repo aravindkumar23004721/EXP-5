@@ -40,7 +40,7 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ## OUTPUT:
 
- <img width="505" height="267" alt="image" src="https://github.com/user-attachments/assets/3152ac77-6819-4c4e-825b-09d718e0d392" />
+<img width="505" height="267" alt="511315794-3152ac77-6819-4c4e-825b-09d718e0d392" src="https://github.com/user-attachments/assets/2a9c146a-ec34-4767-b48a-594a7f988c6f" />
 
 ## RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
