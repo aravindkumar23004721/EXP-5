@@ -34,19 +34,13 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
 ![11](https://github.com/user-attachments/assets/98ee4bf1-db0d-47ba-a1a9-bb2eb715f0b6)
-
-![12](https://github.com/user-attachments/assets/e73adbc9-35dd-4fe8-9ea1-253b97b6bec6)
-
-![13](https://github.com/user-attachments/assets/27ab9626-e820-48a9-be45-ffd0e6f9a39e)
-
+![WhatsApp Image 2025-11-07 at 17 26 22_047692d7](https://github.com/user-attachments/assets/543b5c23-e6ad-4c16-bfe1-72653a612f33)
+![WhatsApp Image 2025-11-07 at 17 26 23_cbb88b5a](https://github.com/user-attachments/assets/904ae668-e3d6-4fe4-94e9-d0347ff672b0)
 ![14](https://github.com/user-attachments/assets/7cfcede2-c73b-4289-aeac-47793ff9ea15)
-
 
 ## OUTPUT:
 
-<img width="1920" height="1200" alt="5(i)" src="https://github.com/user-attachments/assets/9af1003d-ab55-4d64-b48b-d1cab42ce1dc" />
-
-<img width="1920" height="1200" alt="5(ii)" src="https://github.com/user-attachments/assets/01387a0d-b1ce-47f7-81a1-8c88a1306306" />
+ <img width="505" height="267" alt="image" src="https://github.com/user-attachments/assets/3152ac77-6819-4c4e-825b-09d718e0d392" />
 
 ## RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
